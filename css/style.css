@@ -1,0 +1,23 @@
+header {
+    background-color: rgb(224, 224, 224);
+}
+
+.navbar {
+    background-color: rgb(224, 224, 224);
+}
+
+.body_i{
+    background-color: rgb(224, 224, 224);
+}
+
+.carousel_i {
+    padding: 0.5rem;
+}
+
+.title {
+    padding: 2rem;
+}
+
+.animate__fadeInUp{
+    animation-duration: 3s;
+}
