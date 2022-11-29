@@ -21,3 +21,10 @@ header {
 .animate__fadeInUp{
     animation-duration: 3s;
 }
+
+/* PAGES/TURISMO */
+
+.info__tourism__title {
+    display: block;
+    margin: 1rem;
+}
