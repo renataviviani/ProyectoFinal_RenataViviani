@@ -8,6 +8,7 @@ header {
 
 .body_a{
     background-color: rgb(224, 224, 224);
+    font-family: "Playfair Display";
 }
 
 .carousel_i {
@@ -22,9 +23,16 @@ header {
     animation-duration: 3s;
 }
 
+
+
 /* PAGES/TURISMO */
 
 .info__tourism__title {
     display: block;
     margin: 1rem;
 }
+
+/* PAGES DONDE COMPRAR */
+ .h2__dc {
+    animation-duration: 2s;
+ }
