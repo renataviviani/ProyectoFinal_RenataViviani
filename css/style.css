@@ -36,3 +36,10 @@ header {
  .h2__dc {
     animation-duration: 2s;
  }
+
+
+ /*pages/contacto*/
+ .textarea {
+    resize: none;
+ }
+
