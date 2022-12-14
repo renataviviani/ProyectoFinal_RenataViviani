@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-final-rviviani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renataviviani/ProyectoFinal_RenataViviani.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renataviviani/ProyectoFinal_RenataViviani/issues"
+  },
+  "homepage": "https://github.com/renataviviani/ProyectoFinal_RenataViviani#readme"
+}

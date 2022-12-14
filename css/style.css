@@ -1,45 +1,37 @@
 header {
-    background-color: rgb(224, 224, 224);
+  background-color: rgb(224, 224, 224);
 }
 
 .navbar {
-    background-color: rgb(224, 224, 224);
+  background-color: rgb(224, 224, 224);
 }
 
-.body_a{
-    background-color: rgb(224, 224, 224);
-    font-family: "Playfair Display";
+.body_a {
+  background-color: rgb(224, 224, 224);
+  font-family: "Playfair Display";
 }
 
 .carousel_i {
-    padding: 0.5rem;
+  padding: 0.5rem;
 }
 
 .title {
-    padding: 2rem;
+  padding: 2rem;
 }
 
-.animate__fadeInUp{
-    animation-duration: 3s;
+.animate__fadeInUp {
+  animation-duration: 3s;
 }
-
-
 
 /* PAGES/TURISMO */
-
 .info__tourism__title {
-    display: block;
-    margin: 1rem;
+  display: block;
+  margin: 1rem;
 }
 
 /* PAGES DONDE COMPRAR */
- .h2__dc {
-    animation-duration: 2s;
- }
+.h2__dc {
+  animation-duration: 2s;
+}
 
-
- /*pages/contacto*/
- .textarea {
-    resize: none;
- }
-
+/*# sourceMappingURL=style.css.map */
