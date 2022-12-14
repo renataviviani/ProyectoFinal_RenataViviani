@@ -1,0 +1,25 @@
+@mixin flex-center ($direction){
+    display: flex;
+    flex-direction: $direction;
+    align-items: center;
+}
+
+
+
+@mixin li {
+    display: inline;
+    list-style: none;
+}
+
+@mixin boxform {
+    border:0.5px;
+    border-color: $primary_color;
+    border-style: solid;  
+    border-radius: 0.5rem;
+}
+
+@mixin button {
+    background-color: $primary_color;
+    border: 1px solid rgb(233, 153, 153);
+    border-radius: 1rem;
+}
