@@ -1,3 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
 header {
   background-color: rgb(224, 224, 224);
 }
@@ -36,7 +44,7 @@ header {
 
 /* pages contacto*/
 .body_a {
-  background-color: rgb(228, 228, 228);
+  background-color: rgb(224, 224, 224);
   font-family: "Playfair Display", sans-serif;
 }
 
@@ -58,6 +66,7 @@ header {
   margin: 1rem;
   width: 400px;
   height: 400px;
+  font-size: 18px;
 }
 .dform form .fbox {
   border: 0.5px;
@@ -80,6 +89,7 @@ header {
 }
 
 .pfooter {
+  margin: 1rem;
   text-align: center;
 }
 
@@ -95,10 +105,11 @@ header {
   padding: 0.5rem;
 }
 
-button {
+.dbutton {
   background-color: lightcoral;
   border: 1px solid rgb(233, 153, 153);
   border-radius: 1rem;
+  border-radius: 3rem;
   height: 30px;
   width: 170px;
 }

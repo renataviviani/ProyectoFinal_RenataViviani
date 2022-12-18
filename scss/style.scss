@@ -1,6 +1,14 @@
 @import "mixins";
 @import "variables";
 
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
 header {
     background-color: rgb(224, 224, 224);
 }
@@ -42,6 +50,9 @@ header {
 
  /* pages contacto*/
 
+
+
+
  .body_a {
     background-color: $back_color;
     font-family: "Playfair Display", sans-serif;
@@ -64,6 +75,7 @@ header {
             margin: 1rem;
             width: 400px;
             height: 400px;
+            font-size: 18px;
             
                     
             .fbox {
@@ -85,6 +97,7 @@ header {
 
 
 .pfooter {
+    margin: 1rem;
     text-align: center;
 }
 
@@ -100,9 +113,12 @@ header {
 }
 
 
-    button {
+    .dbutton {
         @include button ;
+        border-radius: 3rem;
         height: 30px;
         width: 170px;
 
     }
+
+   
