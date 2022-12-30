@@ -7,15 +7,15 @@
 }
 
 header {
-  background-color: rgb(224, 224, 224);
+  background-color: lightblue;
 }
 
 .navbar {
-  background-color: rgb(224, 224, 224);
+  background-color: lightblue;
 }
 
 .body_a {
-  background-color: rgb(224, 224, 224);
+  background-color: lightblue;
   font-family: "Playfair Display";
 }
 
@@ -40,78 +40,6 @@ header {
 /* PAGES DONDE COMPRAR */
 .h2__dc {
   animation-duration: 2s;
-}
-
-/* pages contacto*/
-.body_a {
-  background-color: rgb(224, 224, 224);
-  font-family: "Playfair Display", sans-serif;
-}
-
-.h1title {
-  text-align: center;
-  font-weight: 400;
-}
-
-.dform {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.dform form {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin: 1rem;
-  width: 400px;
-  height: 400px;
-  font-size: 18px;
-}
-.dform form .fbox {
-  border: 3px;
-  border-color: lightblue;
-  border-style: solid;
-  border-radius: 0.5rem;
-  margin: 0.7rem;
-  width: 100%;
-  height: 35px;
-}
-.dform form textarea {
-  border: 3px;
-  border-color: lightblue;
-  border-style: solid;
-  border-radius: 0.5rem;
-  margin: 0.7rem;
-  resize: none;
-  width: 100%;
-  height: 70px;
-}
-
-.pfooter {
-  margin: 1rem;
-  text-align: center;
-}
-
-.diconf {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-}
-.diconf .lifooter {
-  display: inline;
-  list-style: none;
-  padding: 0.5rem;
-}
-
-.dbutton {
-  background-color: lightblue;
-  border: 1px solid rgb(167, 157, 255);
-  border-radius: 1rem;
-  border-radius: 3rem;
-  height: 30px;
-  width: 170px;
 }
 
 /*# sourceMappingURL=style.css.map */
